@@ -1,14 +1,14 @@
-<img src="./img/ilustração-software-enginer.png">
+<img width="600" src="./img/ilustração-software-enginer.png">
 
 <p>Tecnologias</p>
 
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismaellima1&count_private=true&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ismaellima1&count_private=true&theme=tokyonight)]
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismaellima1&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismaellima1&layout=compact&theme=tokyonight)]
 
 
 
