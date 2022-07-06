@@ -1,4 +1,4 @@
-<img width="600" src="./img/ilustração-software-enginer.png">
+<img width="300" aligin="right" src="./img/ilustração-software-enginer.png">
 
 <p>Tecnologias</p>
 
