@@ -10,8 +10,7 @@
 <a href="#">
 <img align="center" style="margin-bottom: 5rem;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismaellima1&layout=compact&theme=tokyonight"></a>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-![](https://github.com/Ismaellima1/Ismaellima1/raw/output/github-contribution-grid-snake.svg)
+![](https://github.com/Ismaellima1/Ismaellima1/raw/output/github-snake-dark.svg#gh-dark-mode-only)
 
 ## Tecnologias/Softwares
 
