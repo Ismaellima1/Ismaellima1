@@ -2,7 +2,7 @@
 
 
 <a href="#">
-<img align="left" width="480" src="https://github-readme-stats.vercel.app/api?username=Ismaellima1&count_private=true&theme=tokyonight">
+<img align="left" width="460" src="https://github-readme-stats.vercel.app/api?username=Ismaellima1&count_private=true&theme=tokyonight">
 </a>
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
 
