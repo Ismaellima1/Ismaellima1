@@ -12,16 +12,16 @@
 
 ## Tecnologias/Softwares
 
-<a href="https://git-scm.com/"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<a href="https://git-scm.com/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </a>
-<a href="https://www.w3schools.com/css/css_intro.asp"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<a href="https://www.w3schools.com/css/css_intro.asp" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 </a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/About_JavaScript"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/About_JavaScript" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </a>
-<a href="https://4linux.com.br/o-que-e-linux/"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
-<a href="https://pt.wikipedia.org/wiki/Microsoft_Windows"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></a>
-<a href="https://www.treinaweb.com.br/blog/vs-code-o-que-e-e-por-que-voce-deve-usar#:~:text=O%20Visual%20Studio%20Code%20(VS,com%20HTML%2C%20CSS%20e%20JavaScript."><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<a href="https://4linux.com.br/o-que-e-linux/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></a>
+<a href="https://pt.wikipedia.org/wiki/Microsoft_Windows" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" /></a>
+<a href="https://www.treinaweb.com.br/blog/vs-code-o-que-e-e-por-que-voce-deve-usar#:~:text=O%20Visual%20Studio%20Code%20(VS,com%20HTML%2C%20CSS%20e%20JavaScript." target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </a>
 
 
