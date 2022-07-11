@@ -15,8 +15,8 @@
 ## Sobre-mim
 ...
 
-
-
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="ismael-lima-b62a51216" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/ismael-lima-b62a51216?trk=profile-badge">Ismael Lima</a></div>
+              
 ## Tecnologias/Softwares
 
 <a href="https://git-scm.com/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
