@@ -13,7 +13,10 @@
 ![ Animação de cobra ](https://raw.githubusercontent.com/Ismaellima1/Ismaellima1/output/github-contribution-grid-snake-dark.svg)
 
 ## Sobre-mim
-...
+bom sou um jovem de 18 anos, eu gosto de computadores e atualmente estou focado em desenvolver minhas habilidades com desenvolvimento de software Front-end.
+
+## Contato
+<a href="malito:ismaellimadeolivera2004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
               
 ## Tecnologias/Softwares
