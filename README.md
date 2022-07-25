@@ -16,7 +16,7 @@
 bom sou um jovem de 18 anos, eu gosto de computadores e atualmente estou focado em desenvolver minhas habilidades com desenvolvimento de software Front-end.
 
 ## Contato
-<a href="malito:ismaellimadeolivera2004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.google.com.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
               
 ## Tecnologias/Softwares
