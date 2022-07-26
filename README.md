@@ -22,7 +22,7 @@ bom sou um jovem de 18 anos, eu gosto de computadores e atualmente estou focado 
 
 
               
-## Tecnologias/Softwares
+## Habilidades
 
 <a href="https://git-scm.com/" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML" target="_blank"><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
