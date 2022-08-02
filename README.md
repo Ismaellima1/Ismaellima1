@@ -19,6 +19,7 @@ bom sou um jovem de 18 anos, eu gosto de computadores e atualmente estou focado 
 <a href="mailto:ismaellimadeolivera2004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.facebook.com/messages/t/100013209493466" target="_blank"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"></a>
 <a href="https://wa.me/5511931527693" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/ismael-lima/" target="_blank"><img href="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 
               
